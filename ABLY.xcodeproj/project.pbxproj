@@ -16,6 +16,7 @@
 		35413457295360BF00745F18 /* ABLYTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35413456295360BF00745F18 /* ABLYTests.swift */; };
 		35413461295360BF00745F18 /* ABLYUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35413460295360BF00745F18 /* ABLYUITests.swift */; };
 		35413463295360BF00745F18 /* ABLYUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35413462295360BF00745F18 /* ABLYUITestsLaunchTests.swift */; };
+		35413470295361F000745F18 /* 에이블리.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3541346F295361F000745F18 /* 에이블리.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3541345C295360BF00745F18 /* ABLYUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ABLYUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35413460295360BF00745F18 /* ABLYUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABLYUITests.swift; sourceTree = "<group>"; };
 		35413462295360BF00745F18 /* ABLYUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABLYUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3541346F295361F000745F18 /* 에이블리.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "에이블리.PNG"; path = "../../Desktop/에이블리.PNG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				35413443295360BE00745F18 /* ViewController.swift */,
 				35413445295360BE00745F18 /* Main.storyboard */,
 				35413448295360BF00745F18 /* Assets.xcassets */,
+				3541346F295361F000745F18 /* 에이블리.PNG */,
 				3541344A295360BF00745F18 /* LaunchScreen.storyboard */,
 				3541344D295360BF00745F18 /* Info.plist */,
 			);
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35413470295361F000745F18 /* 에이블리.PNG in Resources */,
 				3541344C295360BF00745F18 /* LaunchScreen.storyboard in Resources */,
 				35413449295360BF00745F18 /* Assets.xcassets in Resources */,
 				35413447295360BE00745F18 /* Main.storyboard in Resources */,
