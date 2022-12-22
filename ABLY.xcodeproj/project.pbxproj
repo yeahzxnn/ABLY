@@ -16,6 +16,12 @@
 		35413463295360BF00745F18 /* ABLYUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35413462295360BF00745F18 /* ABLYUITestsLaunchTests.swift */; };
 		35413470295361F000745F18 /* 에이블리.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3541346F295361F000745F18 /* 에이블리.PNG */; };
 		3541347229538A8E00745F18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3541347129538A8E00745F18 /* Main.storyboard */; };
+		3569601F2954E05900B1F87C /* Firsttab.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3569601E2954E05900B1F87C /* Firsttab.storyboard */; };
+		356960212954E1C300B1F87C /* SecondTab.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356960202954E1C300B1F87C /* SecondTab.storyboard */; };
+		356960232954E1F200B1F87C /* ThirdTab.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356960222954E1F200B1F87C /* ThirdTab.storyboard */; };
+		356960252954E1FC00B1F87C /* FourthTab.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356960242954E1FC00B1F87C /* FourthTab.storyboard */; };
+		356960272954E21000B1F87C /* FifthTab.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356960262954E21000B1F87C /* FifthTab.storyboard */; };
+		356960292954E77100B1F87C /* HomePage.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356960282954E77100B1F87C /* HomePage.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +55,12 @@
 		35413462295360BF00745F18 /* ABLYUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABLYUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3541346F295361F000745F18 /* 에이블리.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "에이블리.PNG"; path = "../../Desktop/에이블리.PNG"; sourceTree = "<group>"; };
 		3541347129538A8E00745F18 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		3569601E2954E05900B1F87C /* Firsttab.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Firsttab.storyboard; sourceTree = "<group>"; };
+		356960202954E1C300B1F87C /* SecondTab.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SecondTab.storyboard; sourceTree = "<group>"; };
+		356960222954E1F200B1F87C /* ThirdTab.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ThirdTab.storyboard; sourceTree = "<group>"; };
+		356960242954E1FC00B1F87C /* FourthTab.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = FourthTab.storyboard; sourceTree = "<group>"; };
+		356960262954E21000B1F87C /* FifthTab.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = FifthTab.storyboard; sourceTree = "<group>"; };
+		356960282954E77100B1F87C /* HomePage.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = HomePage.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +115,12 @@
 				35413441295360BE00745F18 /* SceneDelegate.swift */,
 				35413443295360BE00745F18 /* ViewController.swift */,
 				3541347129538A8E00745F18 /* Main.storyboard */,
+				356960282954E77100B1F87C /* HomePage.storyboard */,
+				356960202954E1C300B1F87C /* SecondTab.storyboard */,
+				3569601E2954E05900B1F87C /* Firsttab.storyboard */,
+				356960222954E1F200B1F87C /* ThirdTab.storyboard */,
+				356960242954E1FC00B1F87C /* FourthTab.storyboard */,
+				356960262954E21000B1F87C /* FifthTab.storyboard */,
 				35413448295360BF00745F18 /* Assets.xcassets */,
 				3541346F295361F000745F18 /* 에이블리.PNG */,
 				3541344D295360BF00745F18 /* Info.plist */,
@@ -233,7 +251,13 @@
 			files = (
 				35413470295361F000745F18 /* 에이블리.PNG in Resources */,
 				35413449295360BF00745F18 /* Assets.xcassets in Resources */,
+				356960272954E21000B1F87C /* FifthTab.storyboard in Resources */,
+				356960212954E1C300B1F87C /* SecondTab.storyboard in Resources */,
+				3569601F2954E05900B1F87C /* Firsttab.storyboard in Resources */,
+				356960232954E1F200B1F87C /* ThirdTab.storyboard in Resources */,
 				3541347229538A8E00745F18 /* Main.storyboard in Resources */,
+				356960252954E1FC00B1F87C /* FourthTab.storyboard in Resources */,
+				356960292954E77100B1F87C /* HomePage.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
